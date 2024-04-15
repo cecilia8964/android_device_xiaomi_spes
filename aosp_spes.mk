@@ -36,3 +36,6 @@ TARGET_FACE_UNLOCK_SUPPORTED := true
 
 # Boot animaton
 TARGET_BOOT_ANIMATION_RES := 1080
+
+# Gapps Flag
+WITH_GAPPS := true
