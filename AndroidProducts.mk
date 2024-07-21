@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_spes.mk
+    $(LOCAL_DIR)/voltage_spes.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_spes-user \
-    aosp_spes-userdebug \
-    aosp_spes-eng
+    voltage_spes-user \
+    voltage_spes-userdebug \
+    voltage_spes-eng
