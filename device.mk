@@ -48,8 +48,6 @@ AB_OTA_POSTINSTALL_CONFIG += \
 
 PRODUCT_PACKAGES += \
     checkpoint_gc \
-    audio.primary.default \
-    audio.primary.lahaina \
     otapreopt_script
 
 # AOSP Permissions
