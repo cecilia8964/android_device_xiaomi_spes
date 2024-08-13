@@ -23,3 +23,6 @@ git clone https://github.com/KatanaYuki123/android_kernel_xiaomi_sm6225.git kern
 
 # Lineage-21 Hardware Source
 git clone https://github.com/LineageOS/android_hardware_xiaomi.git -b lineage-21 hardware/xiaomi
+
+# ViperFX
+git clone https://github.com/TogoFire/packages_apps_ViPER4AndroidFX packages/apps/ViPER4AndroidFX
