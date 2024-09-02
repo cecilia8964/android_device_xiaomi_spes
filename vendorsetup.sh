@@ -26,3 +26,6 @@ git clone https://github.com/LineageOS/android_hardware_xiaomi.git -b lineage-21
 
 # JamesDSP
 git clone https://github.com/Arijit78/packages_apps_JamesDSPManager.git packages/apps/JamesDSPManager --depth=1
+
+# Remove voltage-priv_keys (unofficial build only)
+rm -rf vendor/voltage-priv
